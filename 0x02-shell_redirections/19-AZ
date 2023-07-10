@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -pi -e 's/oldword/newword/g' file.txt
+echo 'Replace all characters `A` and `c` from input to `Z` and `e`.' | ./19-AZ
